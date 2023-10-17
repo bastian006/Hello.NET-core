@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\bin\Debug\net6.0\Hello.NET-core-.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\bin\Debug\net6.0\Hello.NET-core-.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\bin\Debug\net6.0\Hello.NET-core-.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\bin\Debug\net6.0\Hello.NET-core-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\bin\Debug\net6.0\Hello.NET-core-.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\refint\Hello.NET-core-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\Hello.NET-core-.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\Hello.NET-core-\obj\Debug\net6.0\ref\Hello.NET-core-.dll
